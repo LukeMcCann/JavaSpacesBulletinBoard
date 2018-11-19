@@ -1,5 +1,5 @@
 Author: Luke McCann
-Student NO#: U1364096
+Student_num: U1364096
 Course: Software Engineering (MEng)
 Establishment: The University of Huddersfield
 

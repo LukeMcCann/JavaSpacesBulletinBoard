@@ -1,3 +1,5 @@
+package com.bulletinboard;
+
 import net.jini.space.JavaSpace;
 import net.jini.core.transaction.server.TransactionManager;
 import java.rmi.RMISecurityManager;
